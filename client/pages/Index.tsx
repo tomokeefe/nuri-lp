@@ -143,7 +143,10 @@ export default function Index() {
                   something that works.
                 </p>
 
-                <button className="w-full mt-8 text-white font-semibold py-3 px-6 rounded-lg border-2 border-white/10 shadow-lg" style={{ backgroundColor: "#397282" }}>
+                <button
+                  className="w-full mt-8 text-white font-semibold py-3 px-6 rounded-lg border-2 border-white/10 shadow-lg"
+                  style={{ backgroundColor: "#397282" }}
+                >
                   Learn More
                 </button>
               </div>
