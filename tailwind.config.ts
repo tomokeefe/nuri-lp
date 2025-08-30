@@ -62,6 +62,7 @@ export default {
           "dark-blue": "#13375D",
           "blue-light": "#6AA7BA",
           "blue-medium": "#4A90A4",
+          "button-blue": "#397282",
         },
       },
       borderRadius: {
