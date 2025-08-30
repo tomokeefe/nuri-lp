@@ -89,7 +89,7 @@ export default function Index() {
                   <br />
                   Restore{" "}
                 </span>
-                <span style={{ color: "#F4B942" }}>Control.</span>
+                <span style={{ color: "#4A90A4" }}>Control.</span>
               </h1>
 
               <p className="text-lg sm:text-xl leading-relaxed text-black max-w-lg">
@@ -113,7 +113,7 @@ export default function Index() {
                   <br />
                   Restore{" "}
                 </span>
-                <span style={{ color: "#F4B942" }}>Control.</span>
+                <span style={{ color: "#4A90A4" }}>Control.</span>
               </h1>
 
               <p className="text-lg md:text-xl leading-relaxed text-black">
@@ -134,7 +134,7 @@ export default function Index() {
                     <br />
                     Restore{" "}
                   </span>
-                  <span style={{ color: "#F4B942" }}>Control.</span>
+                  <span style={{ color: "#4A90A4" }}>Control.</span>
                 </h1>
 
                 <p className="text-lg leading-relaxed text-black">
