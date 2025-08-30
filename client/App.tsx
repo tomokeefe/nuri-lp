@@ -11,12 +11,6 @@ const App = () => (
   </BrowserRouter>
 );
 
-const container = document.getElementById("root");
-if (container) {
-  let root = (container as any).__reactRoot;
-  if (!root) {
-    root = createRoot(container);
-    (container as any).__reactRoot = root;
-  }
-  root.render(<App />);
-}
+const container = document.getElementById("root")!;
+const root = createRoot(container);
+root.render(<App />);
