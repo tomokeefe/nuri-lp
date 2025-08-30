@@ -16,9 +16,9 @@ export default function Index() {
 
       {/* Abstract Background Shapes */}
       <div className="absolute inset-0 z-10">
-        <svg 
-          className="w-full h-full fill-white opacity-85" 
-          viewBox="0 0 1440 1024" 
+        <svg
+          className="w-full h-full fill-white opacity-95"
+          viewBox="0 0 1440 1024"
           preserveAspectRatio="xMidYMid slice"
         >
           <path 
