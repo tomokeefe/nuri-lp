@@ -1,26 +1,10 @@
 {
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist/spa"
-      }
-    }
-  ],
+  "buildCommand": "pnpm run build:client",
+  "outputDirectory": "dist/spa",
   "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "/server/index.ts"
-    },
     {
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ],
-  "functions": {
-    "server/index.ts": {
-      "runtime": "nodejs18.x"
-    }
-  }
+  ]
 }
