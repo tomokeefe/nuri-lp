@@ -8,7 +8,7 @@ export default function Index() {
           muted
           loop
           playsInline
-          className="w-full h-full object-cover opacity-60 brightness-110 contrast-110"
+          className="w-full h-full object-cover brightness-110 contrast-110"
         >
           <source src="https://www.dropbox.com/scl/fi/dxpi8uu0cusim3z4nqx1f/5616686-sd_960_540_25fps.mp4?rlkey=feg6qa30aozpqn6igetuux5hk&dl=1" type="video/mp4" />
         </video>
