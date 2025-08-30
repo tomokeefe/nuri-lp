@@ -1,6 +1,6 @@
 export default function Index() {
   return (
-    <div className="relative min-h-screen bg-red-500 overflow-hidden">
+    <div className="relative min-h-screen bg-black overflow-hidden">
       {/* Background Video */}
       <div className="absolute inset-0 z-0">
         <video
