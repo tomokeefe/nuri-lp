@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        nuri: {
+          gold: "#F4B942",
+          "dark-blue": "#13375D",
+          "blue-light": "#6AA7BA",
+          "blue-medium": "#4A90A4",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
