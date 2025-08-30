@@ -35,7 +35,7 @@ export default function Index() {
       {/* Tablet Background Shapes */}
       <div className="absolute inset-0 z-10 hidden md:block lg:hidden">
         <svg
-          className="w-full h-full fill-white opacity-85"
+          className="w-full h-full opacity-85"
           viewBox="0 0 768 480"
           preserveAspectRatio="xMidYMid slice"
         >
@@ -51,7 +51,7 @@ export default function Index() {
       {/* Mobile Background Shapes */}
       <div className="absolute inset-0 z-10 block md:hidden">
         <svg
-          className="w-full h-full fill-white opacity-85"
+          className="w-full h-full opacity-85"
           viewBox="0 0 376 798"
           preserveAspectRatio="xMidYMid slice"
         >
