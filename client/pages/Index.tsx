@@ -85,11 +85,11 @@ export default function Index() {
             <div className="space-y-6">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight tracking-tight">
                 <span className="text-black">
-                  Rewire Fear.
+                  Rewiring Fear.
                   <br />
-                  Restore{" "}
+                  Restoring{" "}
                 </span>
-                <span style={{ color: "#4A90A4" }}>Control.</span>
+                <span style={{ color: "#4A90A4" }}>Hope.</span>
               </h1>
 
               <p className="text-lg sm:text-xl leading-relaxed text-black max-w-lg">
