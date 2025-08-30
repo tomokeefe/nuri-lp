@@ -71,18 +71,7 @@ export default function Index() {
 
             {/* Hero Image Area */}
             <div className="hidden lg:flex justify-center items-center">
-              <div className="relative w-96 h-96">
-                {/* Organic shapes with image content */}
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <div className="w-80 h-80 relative">
-                    {/* Abstract organic background shape */}
-                    <div className="absolute inset-0 bg-gradient-to-br from-gray-100 to-gray-200 rounded-full transform -rotate-12 opacity-80"></div>
-                    <div className="absolute top-8 right-8 w-48 h-48 bg-gradient-to-br from-gray-200 to-gray-300 rounded-3xl transform rotate-12 opacity-70"></div>
-                    <div className="absolute bottom-8 left-8 w-32 h-32 bg-gradient-to-br from-gray-100 to-gray-200 rounded-2xl transform -rotate-6 opacity-60"></div>
-
-                  </div>
-                </div>
-              </div>
+              {/* Clean space for future hero image */}
             </div>
           </div>
         </div>
